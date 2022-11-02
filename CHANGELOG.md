@@ -1,5 +1,17 @@
 
 
+### 1.0.3 (2022-11-02)
+
+
+### ✨ Features | 新功能
+
+* 🎸 init doc ([a2217fd](https://gitlab.hellobike.cn:10022/quark/AppQuarkCoreDoc/commit/a2217fd255c2517d853340b2b4fc94875ba7ca25))
+
+
+### 📦 Chores | 其他更新
+
+* 🤖 add release-it.json ([924273d](https://gitlab.hellobike.cn:10022/quark/AppQuarkCoreDoc/commit/924273d881b3be5c9fb8947ffa0b8d584b10e5ba))
+
 ### [1.0.2](https://gitlab.hellobike.cn:10022/quark/AppQuarkCoreDoc/compare/1.7.1...1.0.2) (2022-11-01)
 
 
