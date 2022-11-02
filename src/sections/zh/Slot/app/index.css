@@ -1,0 +1,8 @@
+::slotted(*) {
+  font-weight: bold;
+  padding: 6px;
+}
+
+::slotted(.a) {
+  border: 1px solid #409EFF;
+}
